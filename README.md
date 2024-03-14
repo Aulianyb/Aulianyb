@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings and Salutations! 👋✨
 
 <!--
 **Aulianyb/Aulianyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. I'm currently learning about data warehousing and project management. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
+### 🌟 Things I mastered
+### ⚙ Things I've Worked With 
