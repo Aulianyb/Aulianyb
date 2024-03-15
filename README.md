@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm an Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. I'm currently learning about data warehousing and project management. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
-### 🌟 Things I mastered
-### ⚙ Things I've Worked With 
+
+🎮 I also have a passion in developing games and have been involved in creating assets and managing game development projects (≧∇≦)ﾉ
+
+### 🌟 Things I'm Proficient in
+### ⚙ Technology I've Used
+### 🎨 Art and Design Programs I've Used
