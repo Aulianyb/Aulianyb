@@ -1,5 +1,5 @@
 ### Greetings and Salutations! 👋✨
-I'm an Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. I'm currently learning about data warehousing and project management. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
+I'm an third year Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. I'm currently learning about data warehousing and project management. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
 
 I also have a passion in developing games and have been involved in creating assets and managing game development projects (≧∇≦)ﾉ
 
@@ -26,5 +26,10 @@ I also have a passion in developing games and have been involved in creating ass
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+#### Testing ✧
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+#### Version Control ✧
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 #### Art & Design Programs ✧
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
