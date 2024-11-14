@@ -1,5 +1,5 @@
 ### Greetings and Salutations! 👋✨
-I'm a final year Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. I'm currently learning about data warehousing and project management. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
+I'm a final year Information Systems and Technology student at Bandung Institute of Technology. I'm interested in full-stack web development, software engineering and UI/UX. Most of my repositories here are my group and individual projects for university, but i do enjoy working on my personal projects ( •̀ ω •́ )✧
 
 I also have a passion in developing games and have been involved in creating assets and managing game development projects (≧∇≦)ﾉ
 
